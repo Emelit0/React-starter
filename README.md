@@ -5,6 +5,7 @@
 -Babel Loader
 -ESlint
 -Prettier
+-husky
 -Sass Loader with Dart Sass
 -HTMLWebPlugin
 -WebpackDevServer
@@ -12,6 +13,7 @@
 -Source Maps
 -Caching
 -basic file structure
+
 
 ## Download the starter kit
 
