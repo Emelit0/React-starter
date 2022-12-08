@@ -17,7 +17,7 @@
 ## Info
 
 1. Repo contains small boilerplate code to check if everything is running when initializing dev server
-2. Files name "deleteThis.ts" are ment to be replaced or deleted
+
 
 
 ## Download the starter kit
